@@ -1,0 +1,26 @@
+.flex-center{
+    display: flex;
+    justify-content: center;
+}
+.flex-left{
+    display: flex;
+    justify-content: flex-start;
+}
+.flex-right{
+    display: flex;
+    justify-content: flex-end;
+}
+.flex-both-sides{
+    display: flex;
+    justify-content: space-between;
+}
+
+.small{
+    height: 25px;
+}
+.mid{
+    height: 50px;
+}
+.big{
+    height: 100px;
+}
